@@ -17,7 +17,6 @@ data for different persistence scenarios, and estimates numerical bounds.
 - `main_4.f90`: Main program and input parameters. Choose the calculation
   by changing `operation_case` near the beginning of this file.
 - `experiments.py`: generates figures 3 and 4.
-- 
 
 ## Compile
 
